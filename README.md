@@ -13,4 +13,4 @@
 - ExpressJS;
 - Sequelize (ORM);
 - Sqlite;
-- Jest (Unit test)
+- Jest (Unit test);
