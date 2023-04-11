@@ -14,3 +14,5 @@
 - Sequelize (ORM);
 - Sqlite;
 - Jest (Unit test);
+
+🚩 Finalizando a página ShowSearch 
