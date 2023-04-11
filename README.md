@@ -12,7 +12,6 @@
  - NodeJS;
 - ExpressJS;
 - Sequelize (ORM);
-- Postgres;
+- Sqlite;
 - Jest (Unit test);
-- Docker;
 
