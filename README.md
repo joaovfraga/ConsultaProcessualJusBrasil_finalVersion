@@ -15,4 +15,4 @@
 - Sqlite;
 - Jest (Unit test);
 
-🚩 Finalizando a página ShowSearch 
+🚩 Finalizando a página ShowSearch (detalhes do processo).
